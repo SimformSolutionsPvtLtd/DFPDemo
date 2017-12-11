@@ -13,6 +13,7 @@ struct AdUnitIds {
     let interstitialId = "/6499/example/interstitial"
     let contenAdId = "/6499/example/native"
     let nativeCustomTemplateId = "10104090"
+    private let sureString = "Hello World"
 }
 class ViewController: UIViewController {
 
